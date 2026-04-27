@@ -55,7 +55,7 @@ INSERT INTO books (title, author, genre, isbn, total_copies, available) VALUES
 ('Rich Dad Poor Dad',       'Robert Kiyosaki',     'Finance',     '9781612680194', 3, 3),
 ('The Immortals of Meluha', 'Amish Tripathi',      'Mythology',   '9789380658742', 2, 2);
 
--- ── SAMPLE MEMBERS ──
+-- ── SAMPLE MEMBERS ── piyushSoni
 INSERT INTO members (name, email, phone) VALUES
 ('Aarav Sharma',  'aarav@email.com',  '9876543210'),
 ('Priya Patel',   'priya@email.com',  '9812345678'),
