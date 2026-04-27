@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS members (
     active      TINYINT(1) DEFAULT 1
 );
 
--- ── ISSUED BOOKS TABLE ──
+-- ── ISSUED BOOKS TABLE ── piyush SOni
 CREATE TABLE IF NOT EXISTS issued_books (
     id          INT AUTO_INCREMENT PRIMARY KEY,
     book_id     INT NOT NULL,
