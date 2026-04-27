@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS issued_books (
     FOREIGN KEY (member_id) REFERENCES members(id)
 );
 
--- ── SAMPLE BOOKS ──
+-- ── SAMPLE BOOKS ── piyush Soni
 INSERT INTO books (title, author, genre, isbn, total_copies, available) VALUES
 ('The Alchemist',           'Paulo Coelho',       'Fiction',     '9780061122415', 3, 3),
 ('Harry Potter & Stone',    'J.K. Rowling',        'Fantasy',     '9780439708180', 5, 5),
