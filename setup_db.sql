@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS books (
     added_on    DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
--- ── MEMBERS TABLE ── piyushSoni
+-- ── MEMBERS TABLE ── piyushSoni   
 CREATE TABLE IF NOT EXISTS members (
     id          INT AUTO_INCREMENT PRIMARY KEY,
     name        VARCHAR(150) NOT NULL,
