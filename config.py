@@ -12,3 +12,4 @@ FINE_PER_DAY = 2.00
 # Default loan period (days)
 LOAN_DAYS = 14
 # piyushsoni
+                         
