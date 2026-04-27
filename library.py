@@ -516,7 +516,7 @@ def main():
         print("     2. Run setup_db.sql")
         print("     3. Update config.py with your password")
         sys.exit(1)
-
+# piyushsoni
     banner()
     while True:
         ch = menu()
