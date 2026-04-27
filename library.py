@@ -4,7 +4,7 @@ from db import execute_query, get_connection
 import config
 from mysql.connector import Error
 
-# ── ANSI COLORS ──
+# ── ANSI COLORS ──    
 R  = "\033[0m"
 B  = "\033[1m"
 CY = "\033[36m"
