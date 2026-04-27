@@ -33,3 +33,4 @@ def execute_query(query, params=None, fetch=False):
     finally:
         cursor.close()
         conn.close()
+# piyush_soni777
