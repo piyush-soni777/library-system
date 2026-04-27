@@ -2,7 +2,7 @@
 -- ║   LIBRARY MANAGEMENT SYSTEM - DATABASE  ║
 -- ║   Run this file FIRST in MySQL          ║
 -- ╚══════════════════════════════════════════╝
-
+-- develope by piyushSni
 CREATE DATABASE IF NOT EXISTS library_db;
 USE library_db;
 
