@@ -71,3 +71,4 @@ library-system/
 - **Database**: MySQL 8.0+
 - **Library**: mysql-connector-python
 - **Architecture**: 3-file MVC style (config → db → library)
+dvevlope by piyush-soni777
