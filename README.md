@@ -1,7 +1,7 @@
 # 📚 Library Management System
 **Python + MySQL | CLI Application**
 
----
+---   
 
 ## ✨ Features
  
