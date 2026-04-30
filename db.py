@@ -5,7 +5,7 @@ import config
 def get_connection():
     """Returns a MySQL connection. Raises exception if fails."""
     try:
-        conn = mysql.connector.connect(
+        conn = mysql.connector.connect( 
             host     = config.DB_HOST,
             user     = config.DB_USER,
             password = config.DB_PASSWORD,
